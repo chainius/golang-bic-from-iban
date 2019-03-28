@@ -10,8 +10,8 @@ import (
 func main() {
     log.Root().SetHandler(log.LvlFilterHandler(log.LvlTrace, log.StreamHandler(os.Stderr, log.TerminalFormat(true))))
 
-    bic.LoadBelgiumList("/var/www/data/be-swift-codes.pdf")
-    bic.LoadIbanRules("/var/www/data/ibanrules.csv")
+    bic.LoadBelgiumList("data/be-swift-codes.json")
+    bic.LoadIbanRules("data/ibanrules.csv")
 
     http.AddRoute("/iban/:iban", func(req http.Request) (interface{}, error) {
         bank := bic.GetInfo(req.Variables["iban"])

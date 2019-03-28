@@ -4,8 +4,11 @@ import (
     "github.com/Skyhark-Projects/golang-bic-from-iban/log"
     "code.sajari.com/docconv"
     "path/filepath"
+    "encoding/json"
     "strings"
     "strconv"
+    "io/ioutil"
+    "os"
 )
 
 func ParseBelgiumList(pdfPath string) ([]Bank, error) {
@@ -78,9 +81,38 @@ func ParseBelgiumList(pdfPath string) ([]Bank, error) {
     return allBanks, nil
 }
 
-func LoadBelgiumList(pdfPath string) ([]Bank, error) {
+func BeListToJSON(pdfPath string) error {
+    b, err := ParseBelgiumList(pdfPath)
+    if err != nil {
+        return err
+    }
+
+    swifts := LoadCountrySwifts(filepath.Dir(pdfPath) + "/AllCountries/BE.json");
+    for key, bank := range b {
+        for _, swift := range swifts {
+            if swift.SwiftCode == bank.Swift {
+                bank.City = swift.City
+                b[key] = bank
+                break
+            }
+        }
+    }
+
+    bytes, err := json.Marshal(b)
+    if err != nil {
+        return err
+    }
+
+    return ioutil.WriteFile(filepath.Dir(pdfPath) + "/be-swift-codes.json", bytes, 0755)
+}
+
+func LoadBelgiumListFromPDF(pdfPath string) ([]Bank, error) {
     b, err := ParseBelgiumList(pdfPath)
     swifts := LoadCountrySwifts(filepath.Dir(pdfPath) + "/AllCountries/BE.json");
+
+    if err != nil {
+        log.Error("error while loading belgium list", "error", err)
+    }
 
     for _, bank := range b {
         for _, swift := range swifts {
@@ -90,6 +122,37 @@ func LoadBelgiumList(pdfPath string) ([]Bank, error) {
             }
         }
 
+        banks = append(banks, bank)
+    }
+
+    return banks, err
+}
+
+func LoadBelgiumList(jsonPath string) ([]Bank, error) {
+    /*if err := BeListToJSON(pdfPath); err != nil {
+        log.Error("error while creating belgium json list", "error", err)
+    }*/
+
+    jsonFile, err := os.Open(jsonPath)
+    if err != nil {
+        log.Error("error while loading belgium list", "error", err)
+        return []Bank{}, err
+    }
+
+    byteValue, err := ioutil.ReadAll(jsonFile)
+    if err != nil {
+        log.Error("error while reading belgium list", "error", err)
+        return []Bank{}, err
+    }
+
+    b := []Bank{}
+    if err = json.Unmarshal(byteValue, &b); err != nil {
+        log.Error("error while parsing belgium list", "error", err)
+        return b, err
+    }
+
+    log.Info("Loaded Beligan banks", "count", len(b))
+    for _, bank := range b {
         banks = append(banks, bank)
     }
 

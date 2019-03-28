@@ -15,6 +15,8 @@ COPY --from=builder /go-bic/build/bin/bic /usr/local/bin/
 WORKDIR /var/www
 COPY data /var/www/data
 
+# RUN apk add poppler-utils
+
 RUN addgroup -g 1000 geth && \
     adduser -h /root -D -u 1000 -G geth geth && \
     chown geth:geth /root
