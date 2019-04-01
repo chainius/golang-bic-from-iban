@@ -122,6 +122,7 @@ func (s *Server) handle(w http.ResponseWriter, req *http.Request) (interface{}, 
 func (s *Server) ServeHTTP(w http.ResponseWriter, req *http.Request) {
     w.Header().Set("Content-Type", "application/json")
     w.Header().Set("Cache-Control", "must-revalidate")
+    w.Header().Set("Access-Control-Allow-Origin", "*")
 
     res, err := s.handle(w, req)
     if err != nil {
