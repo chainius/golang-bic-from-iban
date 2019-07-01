@@ -1,30 +1,51 @@
 package main
 
 import (
-    "github.com/Skyhark-Projects/golang-bic-from-iban/http"
-    "github.com/Skyhark-Projects/golang-bic-from-iban/bic"
     "github.com/Skyhark-Projects/golang-bic-from-iban/log"
     "os"
+    "github.com/urfave/cli"
 )
+
+var commands = []cli.Command{
+    {
+        Name: "server",
+        Action: RunServer,
+    },
+    {
+        Name: "parse-pdf",
+        Action: TransformBePdfCmd,
+    },
+}
 
 func main() {
     log.Root().SetHandler(log.LvlFilterHandler(log.LvlTrace, log.StreamHandler(os.Stderr, log.TerminalFormat(true))))
 
-    bic.LoadBelgiumList("data/be-swift-codes.json")
-    bic.LoadIbanRules("data/ibanrules.csv")
+    app := cli.NewApp()
+	app.Name = "IBAN-tools"
+	cli.OsExiter = func(int) {
+		os.Exit(1)
+	}
 
-    http.AddRoute("/iban/:iban", func(req http.Request) (interface{}, error) {
-        bank := bic.GetInfo(req.Variables["iban"])
-        return bank, nil
-    })
+	app.After = func(c *cli.Context) error {
+		return nil
+	}
 
-    /*http.AddRoute("/swift/:swift", func(req http.Request) (interface{}, error) {
-        bank := bic.GetInfo(req.Variables["iban"])
-        return bank, nil
-    })*/
+	app.Usage = "bit4you"
+	app.Version = "1.0.0"
+	app.Action = RunServer
+	app.EnableBashCompletion = true
+	app.Authors = []cli.Author{
+		cli.Author{
+			Name:  "Vandamme Sacha",
+			Email: "sacha@bit4you.io",
+		},
+	}
 
-    //ToDo test othe countries outside belgium, starting with DE, Nl, FR
-    //log.Info("test", "iban", bank)
+	app.Commands = commands
 
-    http.Start("8080")
+	err := app.Run(os.Args)
+	if err != nil {
+		log.Error(err.Error())
+		os.Exit(1)
+    }
 }

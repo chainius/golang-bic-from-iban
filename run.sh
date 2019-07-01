@@ -1,0 +1,1 @@
+clear && make && ./build/bin/bic "$@"

@@ -1,1 +1,1961 @@
-[{"Country":"BE","City":"BRUSSELS","Start":0,"End":0,"Name":"bpost bank","Swift":"BPOTBEB1"},{"Country":"BE","City":"BRUSSELS","Start":1,"End":49,"Name":"BNP Paribas Fortis","Swift":"GEBABEBB"},{"Country":"BE","City":"BRUSSELS","Start":50,"End":99,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":100,"End":101,"Name":"Nationale Bank van België","Swift":"NBBEBEBB203"},{"Country":"BE","City":"","Start":102,"End":102,"Name":"Uitwisselingscentrum en Verrekening (U.C.V.)","Swift":"nav"},{"Country":"BE","City":"BRUSSELS","Start":103,"End":108,"Name":"Crelan","Swift":"NICABEBB"},{"Country":"BE","City":"BRUSSELS","Start":109,"End":110,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"ANTWERPEN","Start":111,"End":111,"Name":"Bank J. Van Breda \u0026 C°","Swift":"ABERBE22"},{"Country":"BE","City":"","Start":112,"End":112,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":113,"End":114,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"","Start":115,"End":118,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":119,"End":124,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"TOURNAI","Start":125,"End":126,"Name":"Banque CPH","Swift":"CPHBBE75"},{"Country":"BE","City":"BRUSSELS","Start":127,"End":127,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"","Start":128,"End":128,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":129,"End":129,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"","Start":130,"End":130,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":131,"End":131,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"BRUSSELS","Start":132,"End":132,"Name":"Bank Nagelmackers","Swift":"BNAGBEBB"},{"Country":"BE","City":"BRUSSELS","Start":133,"End":134,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"","Start":135,"End":136,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":137,"End":137,"Name":"BNP Paribas Fortis","Swift":"GEBABEBB"},{"Country":"BE","City":"","Start":138,"End":138,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"","Start":139,"End":139,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":140,"End":149,"Name":"BNP Paribas Fortis","Swift":"GEBABEBB"},{"Country":"BE","City":"BRUSSELS","Start":150,"End":150,"Name":"Bancontact Payconiq Company","Swift":"BCMCBEBB"},{"Country":"BE","City":"","Start":151,"End":170,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"TOURNAI","Start":171,"End":171,"Name":"","Swift":"CPHBBE75"},{"Country":"BE","City":"BERCHEM","Start":172,"End":173,"Name":"Coöperatieve Rabobank U.A.","Swift":"RABOBE23"},{"Country":"BE","City":"","Start":174,"End":174,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":176,"End":176,"Name":"Santander Consumer Bank","Swift":"NAV"},{"Country":"BE","City":"","Start":177,"End":177,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":178,"End":179,"Name":"Commerzbank","Swift":"COBABEBX"},{"Country":"BE","City":"","Start":180,"End":182,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":183,"End":183,"Name":"Bank of Baroda","Swift":"BARBBEBB"},{"Country":"BE","City":"","Start":184,"End":184,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"GENT","Start":185,"End":185,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":186,"End":188,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":189,"End":189,"Name":"Sumitomo Mitsui Banking Corporation (SMBC)","Swift":"SMBCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":190,"End":199,"Name":"","Swift":"CREGBEBB"},{"Country":"BE","City":"BRUSSELS","Start":200,"End":214,"Name":"BNP Paribas Fortis","Swift":"GEBABEBB"},{"Country":"BE","City":"","Start":215,"End":219,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":220,"End":298,"Name":"BNP Paribas Fortis","Swift":"GEBABEBB"},{"Country":"BE","City":"BRUSSELS","Start":299,"End":299,"Name":"bpost bank","Swift":"BPOTBEB1"},{"Country":"BE","City":"BRUSSELS","Start":300,"End":399,"Name":"ING België","Swift":"BBRUBEBB"},{"Country":"BE","City":"BRUSSELS","Start":400,"End":499,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"BRUSSELS","Start":500,"End":500,"Name":"Moneytrans Payment Services","Swift":"MTPSBEBB"},{"Country":"BE","City":"BRUSSELS","Start":501,"End":501,"Name":"Demir-Halk Bank (Nederland) (DHB)","Swift":"DHBNBEBB"},{"Country":"BE","City":"","Start":502,"End":503,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":504,"End":504,"Name":"PAY-NXT","Swift":"PANXBEB1"},{"Country":"BE","City":"","Start":505,"End":506,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"ANTWERPEN","Start":507,"End":507,"Name":"Dierickx, Leys \u0026 Cie Effectenbank","Swift":"DIERBE21"},{"Country":"BE","City":"BRUSSELS","Start":508,"End":508,"Name":"BNP Paribas Securities Services","Swift":"PARBBEBZMDC"},{"Country":"BE","City":"BERCHEM","Start":509,"End":509,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AIPC"},{"Country":"BE","City":"ANTWERPEN","Start":510,"End":510,"Name":"VAN DE PUT \u0026 CO Privaatbankiers","Swift":"VAPEBE22"},{"Country":"BE","City":"","Start":511,"End":511,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"BRUSSELS","Start":512,"End":512,"Name":"NIBC BANK","Swift":"DNIBBE21"},{"Country":"BE","City":"GENT","Start":513,"End":513,"Name":"ABN AMRO Private Banking Belgium","Swift":"SGPBBE99"},{"Country":"BE","City":"BRUSSELS","Start":514,"End":514,"Name":"Puilaetco Dewaay Private Bankers","Swift":"PUILBEBB"},{"Country":"BE","City":"BRUSSELS","Start":515,"End":515,"Name":"The Bank of New York Mellon NV/SA","Swift":"IRVTBEBB"},{"Country":"BE","City":"","Start":516,"End":518,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":519,"End":519,"Name":"The Bank of New York Mellon","Swift":"BNYMBEBB"},{"Country":"BE","City":"","Start":520,"End":520,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"ANTWERPEN","Start":521,"End":521,"Name":"F. van Lanschot Bankiers","Swift":"FVLBBE22"},{"Country":"BE","City":"BRUSSELS","Start":522,"End":522,"Name":"United Taiwan Bank","Swift":"UTWBBEBB"},{"Country":"BE","City":"BRUSSELS","Start":523,"End":523,"Name":"Triodos Bank","Swift":"TRIOBEBB"},{"Country":"BE","City":"BRUSSELS","Start":524,"End":524,"Name":"Attijariwafa bank Europe","Swift":"WAFABEBB"},{"Country":"BE","City":"ANTWERPEN","Start":525,"End":525,"Name":"F. van Lanschot Bankiers","Swift":"FVLBBE2E"},{"Country":"BE","City":"","Start":526,"End":529,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":530,"End":530,"Name":"Shizuoka Bank (Europe)","Swift":"SHIZBEBB"},{"Country":"BE","City":"","Start":531,"End":531,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"","Start":532,"End":534,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"ANTWERPEN","Start":535,"End":535,"Name":"CREDIT EUROPE BANK NV","Swift":"FBHLBE22"},{"Country":"BE","City":"","Start":536,"End":537,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":538,"End":538,"Name":"Hoist Finance AB","Swift":"nav"},{"Country":"BE","City":"","Start":539,"End":539,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"ANTWERPEN","Start":540,"End":540,"Name":"Union Bank of India","Swift":"UBINBE22"},{"Country":"BE","City":"ANTWERPEN","Start":541,"End":541,"Name":"BANK OF INDIA","Swift":"BKIDBE22"},{"Country":"BE","City":"","Start":542,"End":544,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":545,"End":545,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"BRUSSELS","Start":546,"End":546,"Name":"Attijariwafa bank Europe","Swift":"WAFABEBB"},{"Country":"BE","City":"","Start":547,"End":547,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":548,"End":548,"Name":"Lombard Odier (Europe)","Swift":"LOCYBEBB"},{"Country":"BE","City":"BRUSSELS","Start":549,"End":549,"Name":"JP Morgan Chase Bank","Swift":"CHASBEBX"},{"Country":"BE","City":"BRUSSELS","Start":550,"End":560,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"","Start":561,"End":561,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":562,"End":569,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":570,"End":579,"Name":"Citibank Europe Plc - Belgium Branch","Swift":"CITIBEBX"},{"Country":"BE","City":"","Start":580,"End":580,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":581,"End":581,"Name":"Mizuho Bank Europe N.V. Brussels Branch","Swift":"MHCBBEBB"},{"Country":"BE","City":"","Start":582,"End":582,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":583,"End":583,"Name":"Banque Degroof Petercam Luxembourg","Swift":"DEGRBEBB"},{"Country":"BE","City":"ANTWERPEN","Start":584,"End":584,"Name":"ICICI Bank UK Limited","Swift":"ICICBE2X"},{"Country":"BE","City":"BRUSSELS","Start":586,"End":586,"Name":"","Swift":"RCBPBEBB"},{"Country":"BE","City":"BRUSSELS","Start":587,"End":587,"Name":"BinckBank","Swift":"CFFRBEB1"},{"Country":"BE","City":"BRUSSELS","Start":588,"End":588,"Name":"Banque Transatlantique Belgium","Swift":"CMCIBEB1BTB"},{"Country":"BE","City":"","Start":589,"End":589,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":590,"End":594,"Name":"Santander Consumer Bank","Swift":"BSCHBEBB"},{"Country":"BE","City":"BRUSSELS","Start":595,"End":601,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"","Start":602,"End":602,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"","Start":603,"End":604,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":605,"End":605,"Name":"Bank of China (Luxembourg) S.A., Brussels Branch","Swift":"BKCHBEBB"},{"Country":"BE","City":"","Start":606,"End":606,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":607,"End":607,"Name":"Industrial and Commercial Bank of China (Europe)","Swift":"ICBKBEBB"},{"Country":"BE","City":"","Start":608,"End":608,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":609,"End":609,"Name":"","Swift":"NAV"},{"Country":"BE","City":"BRUSSELS","Start":610,"End":613,"Name":"Deutsche Bank AG","Swift":"DEUTBEBE"},{"Country":"BE","City":"","Start":614,"End":623,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":624,"End":625,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"","Start":626,"End":629,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":630,"End":631,"Name":"ING België","Swift":"BBRUBEBB"},{"Country":"BE","City":"","Start":632,"End":633,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":634,"End":636,"Name":"Bank Nagelmackers","Swift":"BNAGBEBB"},{"Country":"BE","City":"","Start":637,"End":637,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":638,"End":638,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"ANTWERPEN","Start":639,"End":639,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AMYO"},{"Country":"BE","City":"ANTWERPEN","Start":640,"End":640,"Name":"KBC Bank N.V. Business Center Diamant","Swift":"ADIABE22"},{"Country":"BE","City":"","Start":641,"End":641,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":642,"End":642,"Name":"Banco Bilbao Vizcaya Argentaria","Swift":"BBVABEBB"},{"Country":"BE","City":"BRUSSELS","Start":643,"End":643,"Name":"Banca Monte Paschi Belgio","Swift":"BMPBBEBB"},{"Country":"BE","City":"","Start":644,"End":644,"Name":"FCA Bank S.p.A.","Swift":"NAV"},{"Country":"BE","City":"ANTWERPEN","Start":645,"End":645,"Name":"Bank J. Van Breda \u0026 C°","Swift":"JVBABE22"},{"Country":"BE","City":"BRUSSELS","Start":646,"End":647,"Name":"Bank Nagelmackers","Swift":"BNAGBEBB"},{"Country":"BE","City":"","Start":648,"End":648,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":649,"End":649,"Name":"","Swift":"nav"},{"Country":"BE","City":"","Start":650,"End":650,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":651,"End":651,"Name":"Arkéa Direct Bank (nom commercial / commerciële naam: Keytrade Bank)","Swift":"KEYTBEBB"},{"Country":"BE","City":"GENT","Start":652,"End":652,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":653,"End":653,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":654,"End":654,"Name":"","Swift":"nav"},{"Country":"BE","City":"","Start":655,"End":656,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":657,"End":657,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":658,"End":658,"Name":"Habib Bank","Swift":"HABBBEBB"},{"Country":"BE","City":"","Start":659,"End":662,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":663,"End":663,"Name":"BMCE Euro Services","Swift":"BMEUBEB1"},{"Country":"BE","City":"BRUSSELS","Start":664,"End":664,"Name":"Banque Chaabi du Maroc","Swift":"BCDMBEBB"},{"Country":"BE","City":"","Start":665,"End":665,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":666,"End":666,"Name":"WORLDLINE NV","Swift":"nav"},{"Country":"BE","City":"","Start":667,"End":667,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"ANTWERPEN","Start":668,"End":668,"Name":"State Bank of India","Swift":"SBINBE2X"},{"Country":"BE","City":"","Start":669,"End":669,"Name":"WORLDLINE NV","Swift":"nav"},{"Country":"BE","City":"","Start":670,"End":670,"Name":"CNH Industrial Capital EUROPE","Swift":"NYA"},{"Country":"BE","City":"GENT","Start":671,"End":671,"Name":"Europabank","Swift":"EURBBE99"},{"Country":"BE","City":"BRUSSELS","Start":672,"End":672,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"GENT","Start":673,"End":673,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"ANTWERPEN","Start":674,"End":674,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AIDJ"},{"Country":"BE","City":"BRUSSELS","Start":675,"End":675,"Name":"Byblos Bank Europe","Swift":"BYBBBEBB"},{"Country":"BE","City":"BRUSSELS","Start":676,"End":676,"Name":"Bank Degroof Petercam","Swift":"DEGRBEBB"},{"Country":"BE","City":"SINT-DENIJS-WESTREM","Start":678,"End":678,"Name":"Delen Private Bank","Swift":"CBPXBE99"},{"Country":"BE","City":"BRUSSELS","Start":679,"End":679,"Name":"bpost","Swift":"PCHQBEBB"},{"Country":"BE","City":"BRUSSELS","Start":680,"End":680,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"","Start":681,"End":681,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":682,"End":683,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"","Start":684,"End":684,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":685,"End":686,"Name":"Bank of Amerika Merrill Lynch International DAC - Brussels Branch","Swift":"BOFABE3X"},{"Country":"BE","City":"BRUSSELS","Start":687,"End":687,"Name":"Euroclear Bank","Swift":"MGTCBEBE"},{"Country":"BE","City":"BRUSSELS","Start":688,"End":688,"Name":"Société Générale (Paris)","Swift":"SGABBEB2"},{"Country":"BE","City":"","Start":689,"End":692,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":693,"End":693,"Name":"MUFG Bank (Europe)","Swift":"BOTKBEBX"},{"Country":"BE","City":"BRUSSELS","Start":694,"End":694,"Name":"Deutsche Bank AG","Swift":"DEUTBEBE"},{"Country":"BE","City":"","Start":695,"End":695,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":696,"End":696,"Name":"Crédit Agricole Corporate \u0026 Investment Bank","Swift":"CRLYBEBB"},{"Country":"BE","City":"","Start":697,"End":697,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":698,"End":698,"Name":"Natixis Bank","Swift":"NATXBEB1"},{"Country":"BE","City":"","Start":699,"End":699,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BERCHEM","Start":700,"End":709,"Name":"AXA Bank Belgium","Swift":"AXABBE22"},{"Country":"BE","City":"","Start":710,"End":718,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":719,"End":719,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AXXX"},{"Country":"BE","City":"","Start":720,"End":721,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BERCHEM","Start":722,"End":722,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AIPC"},{"Country":"BE","City":"","Start":723,"End":724,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":725,"End":727,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"BRUSSELS","Start":728,"End":729,"Name":"","Swift":"CREGBEBB"},{"Country":"BE","City":"BRUSSELS","Start":730,"End":731,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"BRUSSELS","Start":732,"End":732,"Name":"","Swift":"CREGBEBB"},{"Country":"BE","City":"BRUSSELS","Start":733,"End":741,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"BRUSSELS","Start":742,"End":742,"Name":"","Swift":"CREGBEBB"},{"Country":"BE","City":"BRUSSELS","Start":743,"End":749,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"BERCHEM","Start":750,"End":774,"Name":"AXA Bank Belgium","Swift":"AXABBE22"},{"Country":"BE","City":"BRUSSELS","Start":775,"End":799,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"BERCHEM","Start":800,"End":816,"Name":"AXA Bank Belgium","Swift":"AXABBE22"},{"Country":"BE","City":"BRUSSELS","Start":817,"End":817,"Name":"CACEIS Bank Belgian Branch","Swift":"ISAEBEBB"},{"Country":"BE","City":"","Start":818,"End":822,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":823,"End":823,"Name":"Banque de Luxembourg","Swift":"BLUXBEBB"},{"Country":"BE","City":"","Start":824,"End":824,"Name":"ING Bank","Swift":"NAV"},{"Country":"BE","City":"BRUSSELS","Start":825,"End":826,"Name":"Deutsche Bank AG","Swift":"DEUTBEBE"},{"Country":"BE","City":"","Start":827,"End":827,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"GENT","Start":828,"End":828,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":829,"End":829,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":830,"End":839,"Name":"BELFIUS BANK","Swift":"GKCCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":840,"End":840,"Name":"Edmond de Rothschild (Europe)","Swift":"PRIBBEBB"},{"Country":"BE","City":"","Start":841,"End":843,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"ANTWERPEN","Start":844,"End":844,"Name":"Rabobank.be","Swift":"RABOBE22"},{"Country":"BE","City":"BRUSSELS","Start":845,"End":845,"Name":"Bank Degroof Petercam","Swift":"DEGRBEBB"},{"Country":"BE","City":"","Start":846,"End":849,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":850,"End":853,"Name":"Crelan","Swift":"NICABEBB"},{"Country":"BE","City":"","Start":854,"End":858,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":859,"End":860,"Name":"Crelan","Swift":"NICABEBB"},{"Country":"BE","City":"","Start":861,"End":861,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":862,"End":863,"Name":"Crelan","Swift":"NICABEBB"},{"Country":"BE","City":"","Start":864,"End":864,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":865,"End":866,"Name":"Crelan","Swift":"NICABEBB"},{"Country":"BE","City":"","Start":867,"End":867,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":868,"End":868,"Name":"KBC Bank","Swift":"KREDBEBB"},{"Country":"BE","City":"","Start":869,"End":870,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":871,"End":871,"Name":"Bank Nagelmackers","Swift":"BNAGBEBB"},{"Country":"BE","City":"","Start":872,"End":872,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":873,"End":873,"Name":"bpost","Swift":"PCHQBEBB"},{"Country":"BE","City":"","Start":874,"End":875,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":876,"End":876,"Name":"MeDirect Bank S.A.","Swift":"MBWMBEBB"},{"Country":"BE","City":"BRUSSELS","Start":877,"End":879,"Name":"Bank Nagelmackers","Swift":"BNAGBEBB"},{"Country":"BE","City":"GENT","Start":880,"End":889,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"GENT","Start":890,"End":899,"Name":"vdk bank","Swift":"VDSPBE91"},{"Country":"BE","City":"","Start":900,"End":902,"Name":"Onbeschikbaar","Swift":"NAP"},{"Country":"BE","City":"","Start":903,"End":905,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"WAREGEM","Start":906,"End":906,"Name":"Centrale Kredietverlening (C.K.V.)","Swift":"CEKVBE81"},{"Country":"BE","City":"","Start":907,"End":907,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"WAREGEM","Start":908,"End":908,"Name":"Centrale Kredietverlening (C.K.V.)","Swift":"CEKVBE81"},{"Country":"BE","City":"","Start":909,"End":909,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"GENT","Start":910,"End":910,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"BRUSSELS","Start":911,"End":911,"Name":"Ingenico Financial Solutions","Swift":"TUNZBEB1"},{"Country":"BE","City":"","Start":912,"End":912,"Name":"Hi - Media Porte Monnaie Electronique","Swift":"nav"},{"Country":"BE","City":"WATERMAEL BOITSFORT","Start":913,"End":913,"Name":"EPBF","Swift":"EPBFBEBB"},{"Country":"BE","City":"BRUSSELS","Start":914,"End":914,"Name":"FX4BIZ","Swift":"FXBBBEBB"},{"Country":"BE","City":"","Start":915,"End":915,"Name":"Oonex","Swift":"OONXBEBB"},{"Country":"BE","City":"ALSEMBERG","Start":916,"End":916,"Name":"GOLD COMMODITIES FOREX (G.C.F.)","Swift":"GOCFBEB1"},{"Country":"BE","City":"","Start":917,"End":917,"Name":"Buy Way Personal Finance","Swift":""},{"Country":"BE","City":"","Start":918,"End":919,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"GENT","Start":920,"End":923,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"BRUSSELS","Start":924,"End":924,"Name":"Fimaser","Swift":"FMMSBEB1"},{"Country":"BE","City":"GENT","Start":925,"End":925,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":926,"End":926,"Name":"Ebury Partners Belgium","Swift":"EBPBBEB1"},{"Country":"BE","City":"","Start":927,"End":927,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":928,"End":928,"Name":"VIVA Payment Services","Swift":"NAV"},{"Country":"BE","City":"GENT","Start":929,"End":939,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"BRUSSELS","Start":940,"End":940,"Name":"Banque Centrale de Compensation (Clearnet)","Swift":"CLIQBEB1"},{"Country":"BE","City":"BRUSSELS","Start":941,"End":941,"Name":"C A Indosuez Wealth (Europe)","Swift":"CVMCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":942,"End":942,"Name":"Puilaetco Dewaay Private Bankers","Swift":"PUILBEBB"},{"Country":"BE","City":"","Start":943,"End":943,"Name":"CNH Industrial Financial Services SAS","Swift":"nav"},{"Country":"BE","City":"","Start":944,"End":944,"Name":"J.P. Morgan Europe Ltd .","Swift":"NYA"},{"Country":"BE","City":"BRUSSELS","Start":945,"End":945,"Name":"J.P. Morgan Bank Luxembourg - Brussels Branch","Swift":"JPMGBEBB"},{"Country":"BE","City":"","Start":946,"End":946,"Name":"J.P. Morgan AG","Swift":""},{"Country":"BE","City":"","Start":947,"End":948,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BRUSSELS","Start":949,"End":949,"Name":"HSBC France Belgian Branch","Swift":"HSBCBEBB"},{"Country":"BE","City":"BRUSSELS","Start":950,"End":959,"Name":"Beobank","Swift":"CTBKBEBX"},{"Country":"BE","City":"BERCHEM","Start":960,"End":960,"Name":"ABN AMRO Bank N.V.","Swift":"ABNABE2AIPC"},{"Country":"BE","City":"GENT","Start":961,"End":961,"Name":"ING België","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":962,"End":962,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"BERCHEM","Start":963,"End":963,"Name":"AXA Bank Belgium","Swift":"AXABBE22"},{"Country":"BE","City":"","Start":964,"End":966,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"","Start":967,"End":967,"Name":"TransferWise","Swift":"TRWIBEB1"},{"Country":"BE","City":"BRUSSELS","Start":969,"End":969,"Name":"Puilaetco Dewaay Private Bankers","Swift":"ENIBBEBB"},{"Country":"BE","City":"BRUSSELS","Start":970,"End":971,"Name":"ING België","Swift":"PUILBEBB"},{"Country":"BE","City":"GENT","Start":972,"End":972,"Name":"Onbeschikbaar","Swift":"HBKABE22"},{"Country":"BE","City":"","Start":973,"End":973,"Name":"Argenta Spaarbank (ASPA)","Swift":"NAP"},{"Country":"BE","City":"ANTWERPEN","Start":974,"End":974,"Name":"VRIJ","Swift":"ARSPBE22"},{"Country":"BE","City":"","Start":975,"End":975,"Name":"AXA Bank Belgium","Swift":"VRIJ"},{"Country":"BE","City":"BERCHEM","Start":976,"End":976,"Name":"ING België","Swift":"AXABBE22"},{"Country":"BE","City":"","Start":977,"End":977,"Name":"VRIJ","Swift":"VRIJ"},{"Country":"BE","City":"ANTWERPEN","Start":978,"End":980,"Name":"Argenta Spaarbank (ASPA)","Swift":"ARSPBE22"},{"Country":"BE","City":"BRUSSELS","Start":981,"End":984,"Name":"bpost","Swift":"PCHQBEBB"},{"Country":"BE","City":"BRUSSELS","Start":985,"End":988,"Name":"bpost bank","Swift":"BPOTBEB1"},{"Country":"BE","City":"","Start":989,"End":989,"Name":"bpost","Swift":"nav"},{"Country":"BE","City":"","Start":990,"End":999,"Name":"Bpost","Swift":"nav"}]
+[{
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 0,
+    "End": 0,
+    "Name": "bpost bank",
+    "Swift": "BPOTBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 1,
+    "End": 49,
+    "Name": "BNP Paribas Fortis",
+    "Swift": "GEBABEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 50,
+    "End": 99,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 100,
+    "End": 101,
+    "Name": "Nationale Bank van België",
+    "Swift": "NBBEBEBB203"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 102,
+    "End": 102,
+    "Name": "Uitwisselingscentrum en Verrekening (U.C.V.)",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 103,
+    "End": 108,
+    "Name": "Crelan",
+    "Swift": "NICABEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 109,
+    "End": 110,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 111,
+    "End": 111,
+    "Name": "Bank J. Van Breda \u0026 C°",
+    "Swift": "ABERBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 112,
+    "End": 112,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 113,
+    "End": 114,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 115,
+    "End": 118,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 119,
+    "End": 124,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "TOURNAI",
+    "Start": 125,
+    "End": 126,
+    "Name": "Banque CPH",
+    "Swift": "CPHBBE75"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 127,
+    "End": 127,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 128,
+    "End": 128,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 129,
+    "End": 129,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 130,
+    "End": 130,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 131,
+    "End": 131,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 132,
+    "End": 132,
+    "Name": "Bank Nagelmackers",
+    "Swift": "BNAGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 133,
+    "End": 134,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 135,
+    "End": 136,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 137,
+    "End": 137,
+    "Name": "BNP Paribas Fortis",
+    "Swift": "GEBABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 138,
+    "End": 138,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 139,
+    "End": 139,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 140,
+    "End": 149,
+    "Name": "BNP Paribas Fortis",
+    "Swift": "GEBABEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 150,
+    "End": 150,
+    "Name": "Bancontact Payconiq Company",
+    "Swift": "BCMCBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 151,
+    "End": 170,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "TOURNAI",
+    "Start": 171,
+    "End": 171,
+    "Name": "",
+    "Swift": "CPHBBE75"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 172,
+    "End": 173,
+    "Name": "Coöperatieve Rabobank U.A.",
+    "Swift": "RABOBE23"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 174,
+    "End": 174,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 176,
+    "End": 176,
+    "Name": "Santander Consumer Bank",
+    "Swift": "NAV"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 177,
+    "End": 177,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 178,
+    "End": 179,
+    "Name": "Commerzbank",
+    "Swift": "COBABEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 180,
+    "End": 182,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 183,
+    "End": 183,
+    "Name": "Bank of Baroda",
+    "Swift": "BARBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 184,
+    "End": 184,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 185,
+    "End": 185,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 186,
+    "End": 188,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 189,
+    "End": 189,
+    "Name": "Sumitomo Mitsui Banking Corporation (SMBC)",
+    "Swift": "SMBCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 190,
+    "End": 199,
+    "Name": "",
+    "Swift": "CREGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 200,
+    "End": 214,
+    "Name": "BNP Paribas Fortis",
+    "Swift": "GEBABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 215,
+    "End": 219,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 220,
+    "End": 298,
+    "Name": "BNP Paribas Fortis",
+    "Swift": "GEBABEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 299,
+    "End": 299,
+    "Name": "bpost bank",
+    "Swift": "BPOTBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 300,
+    "End": 399,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 400,
+    "End": 499,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 500,
+    "End": 500,
+    "Name": "Moneytrans Payment Services",
+    "Swift": "MTPSBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 501,
+    "End": 501,
+    "Name": "Demir-Halk Bank (Nederland) (DHB)",
+    "Swift": "DHBNBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 502,
+    "End": 503,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 504,
+    "End": 504,
+    "Name": "PAY-NXT",
+    "Swift": "PANXBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 505,
+    "End": 506,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 507,
+    "End": 507,
+    "Name": "Dierickx, Leys \u0026 Cie Effectenbank",
+    "Swift": "DIERBE21"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 508,
+    "End": 508,
+    "Name": "BNP Paribas Securities Services",
+    "Swift": "PARBBEBZMDC"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 509,
+    "End": 509,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AIPC"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 510,
+    "End": 510,
+    "Name": "VAN DE PUT \u0026 CO Privaatbankiers",
+    "Swift": "VAPEBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 511,
+    "End": 511,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 512,
+    "End": 512,
+    "Name": "NIBC BANK",
+    "Swift": "DNIBBE21"
+}, {
+    "Country": "BE",
+    "City": "GENT",
+    "Start": 513,
+    "End": 513,
+    "Name": "ABN AMRO Private Banking Belgium",
+    "Swift": "SGPBBE99"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 514,
+    "End": 514,
+    "Name": "Puilaetco Dewaay Private Bankers",
+    "Swift": "PUILBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 515,
+    "End": 515,
+    "Name": "The Bank of New York Mellon NV/SA",
+    "Swift": "IRVTBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 516,
+    "End": 518,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 519,
+    "End": 519,
+    "Name": "The Bank of New York Mellon",
+    "Swift": "BNYMBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 520,
+    "End": 520,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 521,
+    "End": 521,
+    "Name": "F. van Lanschot Bankiers",
+    "Swift": "FVLBBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 522,
+    "End": 522,
+    "Name": "United Taiwan Bank",
+    "Swift": "UTWBBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 523,
+    "End": 523,
+    "Name": "Triodos Bank",
+    "Swift": "TRIOBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 524,
+    "End": 524,
+    "Name": "Attijariwafa bank Europe",
+    "Swift": "WAFABEBB"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 525,
+    "End": 525,
+    "Name": "F. van Lanschot Bankiers",
+    "Swift": "FVLBBE2E"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 526,
+    "End": 529,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 530,
+    "End": 530,
+    "Name": "Shizuoka Bank (Europe)",
+    "Swift": "SHIZBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 531,
+    "End": 531,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 532,
+    "End": 534,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 535,
+    "End": 535,
+    "Name": "CREDIT EUROPE BANK NV",
+    "Swift": "FBHLBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 536,
+    "End": 537,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 538,
+    "End": 538,
+    "Name": "Hoist Finance AB",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 539,
+    "End": 539,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 540,
+    "End": 540,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 541,
+    "End": 541,
+    "Name": "BANK OF INDIA",
+    "Swift": "BKIDBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 542,
+    "End": 544,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 545,
+    "End": 545,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 546,
+    "End": 546,
+    "Name": "Attijariwafa bank Europe",
+    "Swift": "WAFABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 547,
+    "End": 547,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 548,
+    "End": 548,
+    "Name": "Lombard Odier (Europe)",
+    "Swift": "LOCYBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 549,
+    "End": 549,
+    "Name": "JP Morgan Chase Bank",
+    "Swift": "CHASBEBX"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 550,
+    "End": 560,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 561,
+    "End": 561,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 562,
+    "End": 569,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 570,
+    "End": 579,
+    "Name": "Citibank Europe Plc - Belgium Branch",
+    "Swift": "CITIBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 580,
+    "End": 580,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 581,
+    "End": 581,
+    "Name": "Mizuho Bank Europe N.V. Brussels Branch",
+    "Swift": "MHCBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 582,
+    "End": 582,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 583,
+    "End": 583,
+    "Name": "Banque Degroof Petercam Luxembourg",
+    "Swift": "DEGRBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 584,
+    "End": 584,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 586,
+    "End": 586,
+    "Name": "",
+    "Swift": "RCBPBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 587,
+    "End": 587,
+    "Name": "BinckBank",
+    "Swift": "CFFRBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 588,
+    "End": 588,
+    "Name": "Banque Transatlantique Belgium",
+    "Swift": "CMCIBEB1BTB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 589,
+    "End": 589,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 590,
+    "End": 594,
+    "Name": "Santander Consumer Bank",
+    "Swift": "BSCHBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 595,
+    "End": 601,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 602,
+    "End": 602,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 603,
+    "End": 604,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 605,
+    "End": 605,
+    "Name": "Bank of China (Luxembourg) S.A., Brussels Branch",
+    "Swift": "BKCHBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 606,
+    "End": 606,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 607,
+    "End": 607,
+    "Name": "Industrial and Commercial Bank of China (Europe)",
+    "Swift": "ICBKBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 608,
+    "End": 608,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 609,
+    "End": 609,
+    "Name": "",
+    "Swift": "NAV"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 610,
+    "End": 613,
+    "Name": "Deutsche Bank AG",
+    "Swift": "DEUTBEBE"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 614,
+    "End": 623,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 624,
+    "End": 625,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 626,
+    "End": 629,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 630,
+    "End": 631,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 632,
+    "End": 633,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 634,
+    "End": 636,
+    "Name": "Bank Nagelmackers",
+    "Swift": "BNAGBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 637,
+    "End": 637,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 638,
+    "End": 638,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 639,
+    "End": 639,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AMYO"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 640,
+    "End": 640,
+    "Name": "KBC Bank N.V. Business Center Diamant",
+    "Swift": "ADIABE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 641,
+    "End": 641,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 642,
+    "End": 642,
+    "Name": "Banco Bilbao Vizcaya Argentaria",
+    "Swift": "BBVABEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 643,
+    "End": 643,
+    "Name": "Banca Monte Paschi Belgio",
+    "Swift": "BMPBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 644,
+    "End": 644,
+    "Name": "FCA Bank S.p.A.",
+    "Swift": "NAV"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 645,
+    "End": 645,
+    "Name": "Bank J. Van Breda \u0026 C°",
+    "Swift": "JVBABE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 646,
+    "End": 647,
+    "Name": "Bank Nagelmackers",
+    "Swift": "BNAGBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 648,
+    "End": 648,
+    "Name": "Banca Monte Paschi Belgio",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 649,
+    "End": 649,
+    "Name": "",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 650,
+    "End": 650,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 651,
+    "End": 651,
+    "Name": "Arkéa Direct Bank (nom commercial / commerciële naam: Keytrade Bank)",
+    "Swift": "KEYTBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 652,
+    "End": 652,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 653,
+    "End": 653,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 654,
+    "End": 654,
+    "Name": "",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 655,
+    "End": 656,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 657,
+    "End": 657,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 658,
+    "End": 658,
+    "Name": "Habib Bank",
+    "Swift": "HABBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 659,
+    "End": 662,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 663,
+    "End": 663,
+    "Name": "BMCE Euro Services",
+    "Swift": "BMEUBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 664,
+    "End": 664,
+    "Name": "Banque Chaabi du Maroc",
+    "Swift": "BCDMBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 665,
+    "End": 665,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 666,
+    "End": 666,
+    "Name": "WORLDLINE NV",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 667,
+    "End": 667,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 668,
+    "End": 668,
+    "Name": "State Bank of India",
+    "Swift": "SBINBE2X"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 669,
+    "End": 669,
+    "Name": "WORLDLINE NV",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 670,
+    "End": 670,
+    "Name": "CNH Industrial Capital EUROPE",
+    "Swift": "NYA"
+}, {
+    "Country": "BE",
+    "City": "GENT",
+    "Start": 671,
+    "End": 671,
+    "Name": "Europabank",
+    "Swift": "EURBBE99"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 672,
+    "End": 672,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 673,
+    "End": 673,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 674,
+    "End": 674,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AIDJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 675,
+    "End": 675,
+    "Name": "Byblos Bank Europe",
+    "Swift": "BYBBBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 676,
+    "End": 676,
+    "Name": "Bank Degroof Petercam",
+    "Swift": "DEGRBEBB"
+}, {
+    "Country": "BE",
+    "City": "SINT-DENIJS-WESTREM",
+    "Start": 678,
+    "End": 678,
+    "Name": "Delen Private Bank",
+    "Swift": "CBPXBE99"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 679,
+    "End": 679,
+    "Name": "bpost",
+    "Swift": "PCHQBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 680,
+    "End": 680,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 681,
+    "End": 681,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 682,
+    "End": 683,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 684,
+    "End": 684,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 685,
+    "End": 686,
+    "Name": "Bank of Amerika Merrill Lynch International DAC - Brussels Branch",
+    "Swift": "BOFABE3X"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 687,
+    "End": 687,
+    "Name": "Euroclear Bank",
+    "Swift": "MGTCBEBE"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 688,
+    "End": 688,
+    "Name": "Société Générale (Paris)",
+    "Swift": "SGABBEB2"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 689,
+    "End": 692,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 693,
+    "End": 693,
+    "Name": "MUFG Bank (Europe)",
+    "Swift": "BOTKBEBX"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 694,
+    "End": 694,
+    "Name": "Deutsche Bank AG",
+    "Swift": "DEUTBEBE"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 695,
+    "End": 695,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 696,
+    "End": 696,
+    "Name": "Crédit Agricole Corporate \u0026 Investment Bank",
+    "Swift": "CRLYBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 697,
+    "End": 697,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 698,
+    "End": 698,
+    "Name": "Natixis Bank",
+    "Swift": "NATXBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 699,
+    "End": 699,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 700,
+    "End": 709,
+    "Name": "AXA Bank Belgium",
+    "Swift": "AXABBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 710,
+    "End": 718,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 719,
+    "End": 719,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AXXX"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 720,
+    "End": 721,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 722,
+    "End": 722,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AIPC"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 723,
+    "End": 724,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 725,
+    "End": 727,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 728,
+    "End": 729,
+    "Name": "",
+    "Swift": "CREGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 730,
+    "End": 731,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 732,
+    "End": 732,
+    "Name": "",
+    "Swift": "CREGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 733,
+    "End": 741,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 742,
+    "End": 742,
+    "Name": "",
+    "Swift": "CREGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 743,
+    "End": 749,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 750,
+    "End": 774,
+    "Name": "AXA Bank Belgium",
+    "Swift": "AXABBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 775,
+    "End": 799,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 800,
+    "End": 816,
+    "Name": "AXA Bank Belgium",
+    "Swift": "AXABBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 817,
+    "End": 817,
+    "Name": "CACEIS Bank Belgian Branch",
+    "Swift": "ISAEBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 818,
+    "End": 822,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 823,
+    "End": 823,
+    "Name": "Banque de Luxembourg",
+    "Swift": "BLUXBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 824,
+    "End": 824,
+    "Name": "ING Bank",
+    "Swift": "NAV"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 825,
+    "End": 826,
+    "Name": "Deutsche Bank AG",
+    "Swift": "DEUTBEBE"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 827,
+    "End": 827,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 828,
+    "End": 828,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 829,
+    "End": 829,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 830,
+    "End": 839,
+    "Name": "BELFIUS BANK",
+    "Swift": "GKCCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 840,
+    "End": 840,
+    "Name": "Edmond de Rothschild (Europe)",
+    "Swift": "PRIBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 841,
+    "End": 843,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 844,
+    "End": 844,
+    "Name": "Rabobank.be",
+    "Swift": "RABOBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 845,
+    "End": 845,
+    "Name": "Bank Degroof Petercam",
+    "Swift": "DEGRBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 846,
+    "End": 849,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 850,
+    "End": 853,
+    "Name": "Crelan",
+    "Swift": "NICABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 854,
+    "End": 858,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 859,
+    "End": 860,
+    "Name": "Crelan",
+    "Swift": "NICABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 861,
+    "End": 861,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 862,
+    "End": 863,
+    "Name": "Crelan",
+    "Swift": "NICABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 864,
+    "End": 864,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 865,
+    "End": 866,
+    "Name": "Crelan",
+    "Swift": "NICABEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 867,
+    "End": 867,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 868,
+    "End": 868,
+    "Name": "KBC Bank",
+    "Swift": "KREDBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 869,
+    "End": 870,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 871,
+    "End": 871,
+    "Name": "Bank Nagelmackers",
+    "Swift": "BNAGBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 872,
+    "End": 872,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 873,
+    "End": 873,
+    "Name": "bpost",
+    "Swift": "PCHQBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 874,
+    "End": 875,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 876,
+    "End": 876,
+    "Name": "MeDirect Bank S.A.",
+    "Swift": "MBWMBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 877,
+    "End": 879,
+    "Name": "Bank Nagelmackers",
+    "Swift": "BNAGBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 880,
+    "End": 881,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 882,
+    "End": 882,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 883,
+    "End": 884,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 885,
+    "End": 886,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 887,
+    "End": 888,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 889,
+    "End": 889,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "GENT",
+    "Start": 890,
+    "End": 899,
+    "Name": "vdk bank",
+    "Swift": "VDSPBE91"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 900,
+    "End": 902,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 903,
+    "End": 905,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "WAREGEM",
+    "Start": 906,
+    "End": 906,
+    "Name": "Centrale Kredietverlening (C.K.V.)",
+    "Swift": "CEKVBE81"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 907,
+    "End": 907,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "WAREGEM",
+    "Start": 908,
+    "End": 908,
+    "Name": "Centrale Kredietverlening (C.K.V.)",
+    "Swift": "CEKVBE81"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 909,
+    "End": 909,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 910,
+    "End": 910,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 911,
+    "End": 911,
+    "Name": "Ingenico Financial Solutions",
+    "Swift": "TUNZBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 912,
+    "End": 912,
+    "Name": "Hi - Media Porte Monnaie Electronique",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "WATERMAEL BOITSFORT",
+    "Start": 913,
+    "End": 913,
+    "Name": "EPBF",
+    "Swift": "EPBFBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 914,
+    "End": 914,
+    "Name": "FX4BIZ",
+    "Swift": "FXBBBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 915,
+    "End": 915,
+    "Name": "Oonex",
+    "Swift": "OONXBEBB"
+}, {
+    "Country": "BE",
+    "City": "ALSEMBERG",
+    "Start": 916,
+    "End": 916,
+    "Name": "GOLD COMMODITIES FOREX (G.C.F.)",
+    "Swift": "GOCFBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 917,
+    "End": 917,
+    "Name": "Buy Way Personal Finance",
+    "Swift": ""
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 918,
+    "End": 919,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 920,
+    "End": 920,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 921,
+    "End": 921,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 922,
+    "End": 923,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 924,
+    "End": 924,
+    "Name": "Fimaser",
+    "Swift": "FMMSBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 925,
+    "End": 925,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 926,
+    "End": 926,
+    "Name": "Ebury Partners Belgium",
+    "Swift": "EBPBBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 927,
+    "End": 927,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 928,
+    "End": 928,
+    "Name": "VIVA Payment Services",
+    "Swift": "VPAYBE21"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 929,
+    "End": 931,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 932,
+    "End": 933,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 934,
+    "End": 934,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 935,
+    "End": 935,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 936,
+    "End": 936,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 937,
+    "End": 938,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 939,
+    "End": 939,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 940,
+    "End": 940,
+    "Name": "Banque Centrale de Compensation (Clearnet)",
+    "Swift": "CLIQBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 941,
+    "End": 941,
+    "Name": "C A Indosuez Wealth (Europe)",
+    "Swift": "CVMCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 942,
+    "End": 942,
+    "Name": "Puilaetco Dewaay Private Bankers",
+    "Swift": "PUILBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 943,
+    "End": 943,
+    "Name": "CNH Industrial Financial Services SAS",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 944,
+    "End": 944,
+    "Name": "J.P. Morgan Europe Ltd .",
+    "Swift": "NYA"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 945,
+    "End": 945,
+    "Name": "J.P. Morgan Bank Luxembourg - Brussels Branch",
+    "Swift": "JPMGBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 946,
+    "End": 946,
+    "Name": "J.P. Morgan AG",
+    "Swift": ""
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 947,
+    "End": 947,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 948,
+    "End": 948,
+    "Name": "HomeSend",
+    "Swift": "NYA"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 949,
+    "End": 949,
+    "Name": "HSBC France Belgian Branch",
+    "Swift": "HSBCBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 950,
+    "End": 959,
+    "Name": "Beobank",
+    "Swift": "CTBKBEBX"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 960,
+    "End": 960,
+    "Name": "ABN AMRO Bank N.V.",
+    "Swift": "ABNABE2AIPC"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 961,
+    "End": 961,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 962,
+    "End": 962,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 963,
+    "End": 963,
+    "Name": "AXA Bank Belgium",
+    "Swift": "AXABBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 964,
+    "End": 966,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 967,
+    "End": 967,
+    "Name": "TransferWise",
+    "Swift": "TRWIBEB1"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 968,
+    "End": 968,
+    "Name": "",
+    "Swift": "ENIBBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 969,
+    "End": 969,
+    "Name": "Puilaetco Dewaay Private Bankers",
+    "Swift": "PUILBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 970,
+    "End": 970,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 971,
+    "End": 971,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 972,
+    "End": 972,
+    "Name": "Onbeschikbaar",
+    "Swift": "NAP"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 973,
+    "End": 973,
+    "Name": "Argenta Spaarbank (ASPA)",
+    "Swift": "ARSPBE22"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 974,
+    "End": 974,
+    "Name": "VRIJ",
+    "Swift": "VRIJ"
+}, {
+    "Country": "BE",
+    "City": "BERCHEM",
+    "Start": 975,
+    "End": 975,
+    "Name": "AXA Bank Belgium",
+    "Swift": "AXABBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 976,
+    "End": 976,
+    "Name": "ING België",
+    "Swift": "BBRUBEBB"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 977,
+    "End": 977,
+    "Name": "Paynovate",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "ANTWERPEN",
+    "Start": 978,
+    "End": 980,
+    "Name": "Argenta Spaarbank (ASPA)",
+    "Swift": "ARSPBE22"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 981,
+    "End": 984,
+    "Name": "bpost",
+    "Swift": "PCHQBEBB"
+}, {
+    "Country": "BE",
+    "City": "BRUSSELS",
+    "Start": 985,
+    "End": 988,
+    "Name": "bpost bank",
+    "Swift": "BPOTBEB1"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 989,
+    "End": 989,
+    "Name": "bpost",
+    "Swift": "nav"
+}, {
+    "Country": "BE",
+    "City": "",
+    "Start": 990,
+    "End": 999,
+    "Name": "Bpost",
+    "Swift": "nav"
+}]
