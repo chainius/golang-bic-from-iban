@@ -151,7 +151,7 @@ func LoadBelgiumList(jsonPath string) ([]Bank, error) {
         return b, err
     }
 
-    log.Info("Loaded Beligan banks", "count", len(b))
+    log.Info("Loaded Belgian banks", "count", len(b))
     for _, bank := range b {
         banks = append(banks, bank)
     }
