@@ -8,16 +8,21 @@ import (
 	"errors"
 )
 
+func loadBicsDB() {
+	bic.LoadBelgiumList("data/be-swift-codes.json")
+	bic.LoadIbanRules("data/ibanrules.csv")
+	bic.LoadAllCountries()
+}
+
 func RunServer(c *cli.Context) error {
-    bic.LoadBelgiumList("data/be-swift-codes.json")
-    bic.LoadIbanRules("data/ibanrules.csv")
+	loadBicsDB()
 
     http.AddRoute("/iban/:iban", func(req http.Request) (interface{}, error) {
         bank := bic.GetInfo(req.Variables["iban"])
         return bank, nil
     })
 
-    /*http.AddRoute("/swift/:swift", func(req http.Request) (interface{}, error) {
+    /*http.AddRoute("/swift/:swift", func(req http.Request) (interface{}, error) {
         bank := bic.GetInfo(req.Variables["iban"])
         return bank, nil
     })*/

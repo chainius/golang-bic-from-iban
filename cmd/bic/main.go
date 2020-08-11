@@ -1,15 +1,23 @@
 package main
 
 import (
+	"github.com/Skyhark-Projects/golang-bic-from-iban/bic"
     "github.com/Skyhark-Projects/golang-bic-from-iban/log"
+	"github.com/urfave/cli"
+	"strings"
+	"errors"
+	"fmt"
     "os"
-    "github.com/urfave/cli"
 )
 
 var commands = []cli.Command{
     {
         Name: "server",
         Action: RunServer,
+	},
+	{
+        Name: "iban",
+        Action: CmdGetIban,
     },
     {
         Name: "parse-pdf",
@@ -48,4 +56,23 @@ func main() {
 		log.Error(err.Error())
 		os.Exit(1)
     }
+}
+
+// ------
+
+func CmdGetIban(c *cli.Context) error {
+	if len(c.Args()) == 0 {
+		return errors.New("No iban provided")
+	}
+
+	loadBicsDB()
+	iban := c.Args()[0]
+	log.Info("Getting bic from iban", "iban", iban)
+	fmt.Println("")
+
+	bank := bic.GetInfo(strings.ReplaceAll(iban, " ", ""))
+	log.Warn(bank.IBAN, "valid", bank.Valid, "country", bank.Country)
+	log.Warn(bank.BankName, "swift", bank.Swift, "code", bank.BankCode)
+
+	return nil
 }

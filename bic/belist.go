@@ -158,3 +158,31 @@ func LoadBelgiumList(jsonPath string) ([]Bank, error) {
 
     return banks, err
 }
+
+func LoadAllCountries() {
+    dir := "./data/AllCountries/"
+    files, err := ioutil.ReadDir(dir)
+    if err != nil {
+        log.Error("Could not load AllCountries", "err", err)
+        return
+    }
+
+    for _, f := range files {
+        if f.Name() == "BE.json" || len(f.Name()) < 2 {
+            continue
+        }
+
+        country := f.Name()[:2]
+        swifts := LoadCountrySwifts(dir + f.Name())
+        for _, swift := range swifts {
+            banks = append(banks, Bank{
+                Country:    country,
+                City:       swift.City,
+                Start:      swift.Id,
+                End:        swift.Id,
+                Name:       swift.Bank,
+                Swift:      swift.SwiftCode,
+            })
+        }
+    }
+}
